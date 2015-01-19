@@ -18,6 +18,7 @@ The files are formatted as a json file in the following form:
 {
    "metadata": {
       "contributor": "Russell Hay",
+      "subject": "Russell Hay",
       "activity": "parkour",
       "name": "parkour roll",
       "sensors": [
@@ -35,8 +36,9 @@ The files are formatted as a json file in the following form:
 
 ```
 
-The metadata section just describes the type of data collected, and correlates mostly with the file structure, but adds contributor and
-information about the sensor used to collect the data.
+The metadata section just describes the type of data collected, and correlates mostly with the file structure, but adds contributor, subject
+and information about the sensor used to collect the data.  Contributor is who added the data into the repository.  Subject is the
+person who was wearing the device.
 
 The data section is an array of dictionaries with a required element of timestamp, which should be a monotonically increasing number
 (int or float) that represents the progression of time for ordering purposes.
