@@ -5,4 +5,4 @@ separate files.
 
 Until then, check out this graph for the roll files (click to go to interactive version):
 
-[![https://raw.githubusercontent.com/RussTheAerialist/movement/master/_graphs/Parkour/Rolls/roll_01.png](https://public.tableausoftware.com/views/ParkourRoll/ParkourRoll?:embed=y&:display_count=no)]
+[![Tableau Viz of cleaned up roll data](https://raw.githubusercontent.com/RussTheAerialist/movement/master/_graphs/Parkour/Rolls/roll_01.png)](https://public.tableausoftware.com/views/ParkourRoll/ParkourRoll?:embed=y&:display_count=no)
