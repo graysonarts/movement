@@ -1,0 +1,3151 @@
+{
+  "data": [
+    {
+      "metawear.z": 1.507812, 
+      "timestamp": 1421799071.733681, 
+      "metawear.x": 0.152344, 
+      "metawear.y": 3.875
+    }, 
+    {
+      "metawear.z": 0.808594, 
+      "timestamp": 1421799071.764931, 
+      "metawear.x": 1.15625, 
+      "metawear.y": 4.332031
+    }, 
+    {
+      "metawear.z": -0.476562, 
+      "timestamp": 1421799071.764931, 
+      "metawear.x": 1.1875, 
+      "metawear.y": 4.851562
+    }, 
+    {
+      "metawear.z": -1.007812, 
+      "timestamp": 1421799071.796181, 
+      "metawear.x": 0.835938, 
+      "metawear.y": 6.023438
+    }, 
+    {
+      "metawear.z": -1.054688, 
+      "timestamp": 1421799071.811806, 
+      "metawear.x": 0.011719, 
+      "metawear.y": 5.871094
+    }, 
+    {
+      "metawear.z": -0.351562, 
+      "timestamp": 1421799071.827431, 
+      "metawear.x": -0.445312, 
+      "metawear.y": 5.214844
+    }, 
+    {
+      "metawear.z": -0.214844, 
+      "timestamp": 1421799071.858681, 
+      "metawear.x": -0.429688, 
+      "metawear.y": 4.253906
+    }, 
+    {
+      "metawear.z": 0.410156, 
+      "timestamp": 1421799071.874306, 
+      "metawear.x": -0.03125, 
+      "metawear.y": 2.988281
+    }, 
+    {
+      "metawear.z": -0.550781, 
+      "timestamp": 1421799071.889931, 
+      "metawear.x": -0.335938, 
+      "metawear.y": 3.003906
+    }, 
+    {
+      "metawear.z": -0.671875, 
+      "timestamp": 1421799071.905556, 
+      "metawear.x": -0.214844, 
+      "metawear.y": 2.164062
+    }, 
+    {
+      "metawear.z": -0.933594, 
+      "timestamp": 1421799071.921181, 
+      "metawear.x": 0.0, 
+      "metawear.y": 1.980469
+    }, 
+    {
+      "metawear.z": -0.6875, 
+      "timestamp": 1421799071.952431, 
+      "metawear.x": 0.074219, 
+      "metawear.y": 1.722656
+    }, 
+    {
+      "metawear.z": -0.871094, 
+      "timestamp": 1421799071.968056, 
+      "metawear.x": 0.089844, 
+      "metawear.y": 1.628906
+    }, 
+    {
+      "metawear.z": -0.933594, 
+      "timestamp": 1421799071.983681, 
+      "metawear.x": 0.042969, 
+      "metawear.y": 1.324219
+    }, 
+    {
+      "metawear.z": -1.144531, 
+      "timestamp": 1421799071.999306, 
+      "metawear.x": -0.261719, 
+      "metawear.y": 1.433594
+    }, 
+    {
+      "metawear.z": -1.023438, 
+      "timestamp": 1421799072.030556, 
+      "metawear.x": -0.488281, 
+      "metawear.y": 1.234375
+    }, 
+    {
+      "metawear.z": -1.085938, 
+      "timestamp": 1421799072.046181, 
+      "metawear.x": -0.582031, 
+      "metawear.y": 0.960938
+    }, 
+    {
+      "metawear.z": -1.511719, 
+      "timestamp": 1421799072.061806, 
+      "metawear.x": -0.964844, 
+      "metawear.y": 2.683594
+    }, 
+    {
+      "metawear.z": -2.246094, 
+      "timestamp": 1421799072.077431, 
+      "metawear.x": -0.976562, 
+      "metawear.y": 5.019531
+    }, 
+    {
+      "metawear.z": -4.074219, 
+      "timestamp": 1421799072.093056, 
+      "metawear.x": -1.648438, 
+      "metawear.y": 7.855469
+    }, 
+    {
+      "metawear.z": -4.839844, 
+      "timestamp": 1421799072.124306, 
+      "metawear.x": -1.648438, 
+      "metawear.y": 7.09375
+    }, 
+    {
+      "metawear.z": -3.574219, 
+      "timestamp": 1421799072.139931, 
+      "metawear.x": -0.8125, 
+      "metawear.y": 3.09375
+    }, 
+    {
+      "metawear.z": -2.488281, 
+      "timestamp": 1421799072.155556, 
+      "metawear.x": -0.503906, 
+      "metawear.y": 1.585938
+    }, 
+    {
+      "metawear.z": -2.382812, 
+      "timestamp": 1421799072.171181, 
+      "metawear.x": 0.914062, 
+      "metawear.y": 6.5
+    }, 
+    {
+      "metawear.z": -0.460938, 
+      "timestamp": 1421799072.202431, 
+      "metawear.x": -0.0625, 
+      "metawear.y": 8.816406
+    }, 
+    {
+      "metawear.z": 0.746094, 
+      "timestamp": 1421799072.218056, 
+      "metawear.x": 0.945312, 
+      "metawear.y": 4.042969
+    }, 
+    {
+      "metawear.z": -0.140625, 
+      "timestamp": 1421799072.233681, 
+      "metawear.x": 1.324219, 
+      "metawear.y": 1.996094
+    }, 
+    {
+      "metawear.z": -1.285156, 
+      "timestamp": 1421799072.249306, 
+      "metawear.x": -0.261719, 
+      "metawear.y": 3.570312
+    }, 
+    {
+      "metawear.z": 0.347656, 
+      "timestamp": 1421799072.264931, 
+      "metawear.x": -0.886719, 
+      "metawear.y": 3.84375
+    }, 
+    {
+      "metawear.z": 1.113281, 
+      "timestamp": 1421799072.296181, 
+      "metawear.x": 0.164062, 
+      "metawear.y": 4.058594
+    }, 
+    {
+      "metawear.z": -0.15625, 
+      "timestamp": 1421799072.311806, 
+      "metawear.x": -0.15625, 
+      "metawear.y": 4.546875
+    }, 
+    {
+      "metawear.z": -0.597656, 
+      "timestamp": 1421799072.327431, 
+      "metawear.x": -0.488281, 
+      "metawear.y": 3.707031
+    }, 
+    {
+      "metawear.z": 0.242188, 
+      "timestamp": 1421799072.358681, 
+      "metawear.x": -0.308594, 
+      "metawear.y": 3.339844
+    }, 
+    {
+      "metawear.z": -0.335938, 
+      "timestamp": 1421799072.358681, 
+      "metawear.x": -0.167969, 
+      "metawear.y": 3.324219
+    }, 
+    {
+      "metawear.z": -0.335938, 
+      "timestamp": 1421799072.389931, 
+      "metawear.x": -0.078125, 
+      "metawear.y": 2.914062
+    }, 
+    {
+      "metawear.z": 0.363281, 
+      "timestamp": 1421799072.421181, 
+      "metawear.x": -0.488281, 
+      "metawear.y": 2.195312
+    }, 
+    {
+      "metawear.z": 0.210938, 
+      "timestamp": 1421799072.421181, 
+      "metawear.x": -0.71875, 
+      "metawear.y": 2.5
+    }, 
+    {
+      "metawear.z": -0.046875, 
+      "timestamp": 1421799072.452431, 
+      "metawear.x": -0.550781, 
+      "metawear.y": 2.714844
+    }, 
+    {
+      "metawear.z": 0.226562, 
+      "timestamp": 1421799072.468056, 
+      "metawear.x": -0.613281, 
+      "metawear.y": 2.773438
+    }, 
+    {
+      "metawear.z": -0.078125, 
+      "timestamp": 1421799072.483681, 
+      "metawear.x": -0.65625, 
+      "metawear.y": 3.050781
+    }, 
+    {
+      "metawear.z": -0.15625, 
+      "timestamp": 1421799072.514931, 
+      "metawear.x": -0.503906, 
+      "metawear.y": 3.09375
+    }, 
+    {
+      "metawear.z": -0.308594, 
+      "timestamp": 1421799072.530556, 
+      "metawear.x": -0.503906, 
+      "metawear.y": 3.429688
+    }, 
+    {
+      "metawear.z": -0.429688, 
+      "timestamp": 1421799072.546181, 
+      "metawear.x": -0.628906, 
+      "metawear.y": 3.660156
+    }, 
+    {
+      "metawear.z": -0.476562, 
+      "timestamp": 1421799072.561806, 
+      "metawear.x": -0.703125, 
+      "metawear.y": 3.78125
+    }, 
+    {
+      "metawear.z": -0.445312, 
+      "timestamp": 1421799072.577431, 
+      "metawear.x": -0.902344, 
+      "metawear.y": 4.285156
+    }, 
+    {
+      "metawear.z": -0.582031, 
+      "timestamp": 1421799072.608681, 
+      "metawear.x": -0.964844, 
+      "metawear.y": 4.789062
+    }, 
+    {
+      "metawear.z": -0.550781, 
+      "timestamp": 1421799072.624306, 
+      "metawear.x": -1.144531, 
+      "metawear.y": 5.230469
+    }, 
+    {
+      "metawear.z": -0.476562, 
+      "timestamp": 1421799072.639931, 
+      "metawear.x": -1.863281, 
+      "metawear.y": 4.605469
+    }, 
+    {
+      "metawear.z": -0.964844, 
+      "timestamp": 1421799072.655556, 
+      "metawear.x": -1.648438, 
+      "metawear.y": 4.925781
+    }, 
+    {
+      "metawear.z": -1.175781, 
+      "timestamp": 1421799072.686806, 
+      "metawear.x": -1.207031, 
+      "metawear.y": 5.492188
+    }, 
+    {
+      "metawear.z": 0.089844, 
+      "timestamp": 1421799072.702431, 
+      "metawear.x": -0.976562, 
+      "metawear.y": 5.203125
+    }, 
+    {
+      "metawear.z": 0.59375, 
+      "timestamp": 1421799072.718056, 
+      "metawear.x": 0.578125, 
+      "metawear.y": 5.84375
+    }, 
+    {
+      "metawear.z": 0.945312, 
+      "timestamp": 1421799072.733681, 
+      "metawear.x": 0.320312, 
+      "metawear.y": 4.558594
+    }, 
+    {
+      "metawear.z": 1.476562, 
+      "timestamp": 1421799072.749306, 
+      "metawear.x": 0.425781, 
+      "metawear.y": 3.917969
+    }, 
+    {
+      "metawear.z": -0.046875, 
+      "timestamp": 1421799072.780556, 
+      "metawear.x": 0.5, 
+      "metawear.y": 4.652344
+    }, 
+    {
+      "metawear.z": -0.886719, 
+      "timestamp": 1421799072.796181, 
+      "metawear.x": 0.5, 
+      "metawear.y": 5.703125
+    }, 
+    {
+      "metawear.z": -0.886719, 
+      "timestamp": 1421799072.811806, 
+      "metawear.x": 0.027344, 
+      "metawear.y": 6.101562
+    }, 
+    {
+      "metawear.z": -0.351562, 
+      "timestamp": 1421799072.827431, 
+      "metawear.x": -0.519531, 
+      "metawear.y": 5.445312
+    }, 
+    {
+      "metawear.z": -0.613281, 
+      "timestamp": 1421799072.858681, 
+      "metawear.x": -0.429688, 
+      "metawear.y": 4.941406
+    }, 
+    {
+      "metawear.z": -0.839844, 
+      "timestamp": 1421799072.874306, 
+      "metawear.x": -0.15625, 
+      "metawear.y": 4.085938
+    }, 
+    {
+      "metawear.z": 0.835938, 
+      "timestamp": 1421799072.889931, 
+      "metawear.x": -0.078125, 
+      "metawear.y": 3.386719
+    }, 
+    {
+      "metawear.z": -0.140625, 
+      "timestamp": 1421799072.905556, 
+      "metawear.x": -0.078125, 
+      "metawear.y": 2.59375
+    }, 
+    {
+      "metawear.z": -0.503906, 
+      "timestamp": 1421799072.921181, 
+      "metawear.x": -0.0625, 
+      "metawear.y": 1.996094
+    }, 
+    {
+      "metawear.z": -0.398438, 
+      "timestamp": 1421799072.952431, 
+      "metawear.x": 0.074219, 
+      "metawear.y": 1.769531
+    }, 
+    {
+      "metawear.z": -0.519531, 
+      "timestamp": 1421799072.968056, 
+      "metawear.x": 0.304688, 
+      "metawear.y": 1.601562
+    }, 
+    {
+      "metawear.z": -0.839844, 
+      "timestamp": 1421799072.983681, 
+      "metawear.x": 0.347656, 
+      "metawear.y": 1.738281
+    }, 
+    {
+      "metawear.z": -0.855469, 
+      "timestamp": 1421799073.014931, 
+      "metawear.x": 0.257812, 
+      "metawear.y": 1.8125
+    }, 
+    {
+      "metawear.z": -0.949219, 
+      "timestamp": 1421799073.014931, 
+      "metawear.x": -0.015625, 
+      "metawear.y": 1.644531
+    }, 
+    {
+      "metawear.z": -1.144531, 
+      "timestamp": 1421799073.046181, 
+      "metawear.x": -0.308594, 
+      "metawear.y": 1.433594
+    }, 
+    {
+      "metawear.z": -1.3125, 
+      "timestamp": 1421799073.077431, 
+      "metawear.x": -0.429688, 
+      "metawear.y": 1.476562
+    }, 
+    {
+      "metawear.z": -1.847656, 
+      "timestamp": 1421799073.077431, 
+      "metawear.x": -0.902344, 
+      "metawear.y": 3.09375
+    }, 
+    {
+      "metawear.z": -2.582031, 
+      "timestamp": 1421799073.108681, 
+      "metawear.x": -1.40625, 
+      "metawear.y": 5.460938
+    }, 
+    {
+      "metawear.z": -4.015625, 
+      "timestamp": 1421799073.124306, 
+      "metawear.x": -2.121094, 
+      "metawear.y": 7.597656
+    }, 
+    {
+      "metawear.z": -4.441406, 
+      "timestamp": 1421799073.139931, 
+      "metawear.x": -1.695312, 
+      "metawear.y": 6.347656
+    }, 
+    {
+      "metawear.z": -3.558594, 
+      "timestamp": 1421799073.171181, 
+      "metawear.x": -1.007812, 
+      "metawear.y": 2.851562
+    }, 
+    {
+      "metawear.z": -2.582031, 
+      "timestamp": 1421799073.186806, 
+      "metawear.x": -0.765625, 
+      "metawear.y": 1.050781
+    }, 
+    {
+      "metawear.z": -2.382812, 
+      "timestamp": 1421799073.202431, 
+      "metawear.x": 1.066406, 
+      "metawear.y": 5.675781
+    }, 
+    {
+      "metawear.z": -0.046875, 
+      "timestamp": 1421799073.218056, 
+      "metawear.x": -0.140625, 
+      "metawear.y": 10.585938
+    }, 
+    {
+      "metawear.z": 0.761719, 
+      "timestamp": 1421799073.233681, 
+      "metawear.x": 1.308594, 
+      "metawear.y": 4.085938
+    }, 
+    {
+      "metawear.z": -0.246094, 
+      "timestamp": 1421799073.264931, 
+      "metawear.x": 1.050781, 
+      "metawear.y": 0.882812
+    }, 
+    {
+      "metawear.z": -1.238281, 
+      "timestamp": 1421799073.280556, 
+      "metawear.x": 0.441406, 
+      "metawear.y": 2.972656
+    }, 
+    {
+      "metawear.z": -0.140625, 
+      "timestamp": 1421799073.296181, 
+      "metawear.x": -1.007812, 
+      "metawear.y": 4.042969
+    }, 
+    {
+      "metawear.z": 1.265625, 
+      "timestamp": 1421799073.311806, 
+      "metawear.x": -0.335938, 
+      "metawear.y": 4.53125
+    }, 
+    {
+      "metawear.z": -0.460938, 
+      "timestamp": 1421799073.343056, 
+      "metawear.x": -0.796875, 
+      "metawear.y": 5.003906
+    }, 
+    {
+      "metawear.z": -0.917969, 
+      "timestamp": 1421799073.358681, 
+      "metawear.x": -1.160156, 
+      "metawear.y": 3.707031
+    }, 
+    {
+      "metawear.z": 0.457031, 
+      "timestamp": 1421799073.374306, 
+      "metawear.x": -0.308594, 
+      "metawear.y": 3.21875
+    }, 
+    {
+      "metawear.z": -0.335938, 
+      "timestamp": 1421799073.389931, 
+      "metawear.x": -0.09375, 
+      "metawear.y": 3.371094
+    }, 
+    {
+      "metawear.z": -0.488281, 
+      "timestamp": 1421799073.405556, 
+      "metawear.x": 0.058594, 
+      "metawear.y": 3.1875
+    }, 
+    {
+      "metawear.z": -0.078125, 
+      "timestamp": 1421799073.436806, 
+      "metawear.x": -0.140625, 
+      "metawear.y": 2.441406
+    }, 
+    {
+      "metawear.z": -0.09375, 
+      "timestamp": 1421799073.452431, 
+      "metawear.x": -0.445312, 
+      "metawear.y": 2.5625
+    }, 
+    {
+      "metawear.z": -0.078125, 
+      "timestamp": 1421799073.468056, 
+      "metawear.x": -0.535156, 
+      "metawear.y": 2.929688
+    }, 
+    {
+      "metawear.z": 0.0, 
+      "timestamp": 1421799073.483681, 
+      "metawear.x": -0.628906, 
+      "metawear.y": 2.882812
+    }, 
+    {
+      "metawear.z": -0.0625, 
+      "timestamp": 1421799073.514931, 
+      "metawear.x": -0.6875, 
+      "metawear.y": 2.851562
+    }, 
+    {
+      "metawear.z": -0.140625, 
+      "timestamp": 1421799073.530556, 
+      "metawear.x": -0.582031, 
+      "metawear.y": 2.714844
+    }, 
+    {
+      "metawear.z": -0.214844, 
+      "timestamp": 1421799073.546181, 
+      "metawear.x": -0.367188, 
+      "metawear.y": 3.035156
+    }, 
+    {
+      "metawear.z": -0.351562, 
+      "timestamp": 1421799073.561806, 
+      "metawear.x": -0.277344, 
+      "metawear.y": 3.402344
+    }, 
+    {
+      "metawear.z": -0.308594, 
+      "timestamp": 1421799073.577431, 
+      "metawear.x": -0.414062, 
+      "metawear.y": 3.644531
+    }, 
+    {
+      "metawear.z": -0.277344, 
+      "timestamp": 1421799073.608681, 
+      "metawear.x": -0.734375, 
+      "metawear.y": 4.101562
+    }, 
+    {
+      "metawear.z": -0.382812, 
+      "timestamp": 1421799073.624306, 
+      "metawear.x": -0.65625, 
+      "metawear.y": 4.589844
+    }, 
+    {
+      "metawear.z": -0.277344, 
+      "timestamp": 1421799073.639931, 
+      "metawear.x": -1.023438, 
+      "metawear.y": 4.957031
+    }, 
+    {
+      "metawear.z": -0.125, 
+      "timestamp": 1421799073.671181, 
+      "metawear.x": -2.109375, 
+      "metawear.y": 4.179688
+    }, 
+    {
+      "metawear.z": -0.839844, 
+      "timestamp": 1421799073.671181, 
+      "metawear.x": -1.878906, 
+      "metawear.y": 4.773438
+    }, 
+    {
+      "metawear.z": -1.464844, 
+      "timestamp": 1421799073.702431, 
+      "metawear.x": -1.101562, 
+      "metawear.y": 5.597656
+    }, 
+    {
+      "metawear.z": -0.71875, 
+      "timestamp": 1421799073.733681, 
+      "metawear.x": -1.144531, 
+      "metawear.y": 4.925781
+    }, 
+    {
+      "metawear.z": -0.292969, 
+      "timestamp": 1421799073.733681, 
+      "metawear.x": -0.65625, 
+      "metawear.y": 5.0625
+    }, 
+    {
+      "metawear.z": 0.652344, 
+      "timestamp": 1421799073.764931, 
+      "metawear.x": -0.246094, 
+      "metawear.y": 5.71875
+    }, 
+    {
+      "metawear.z": 0.835938, 
+      "timestamp": 1421799073.780556, 
+      "metawear.x": -0.140625, 
+      "metawear.y": 5.140625
+    }, 
+    {
+      "metawear.z": 0.960938, 
+      "timestamp": 1421799073.796181, 
+      "metawear.x": 0.667969, 
+      "metawear.y": 4.226562
+    }, 
+    {
+      "metawear.z": 0.074219, 
+      "timestamp": 1421799073.827431, 
+      "metawear.x": 0.5625, 
+      "metawear.y": 4.667969
+    }, 
+    {
+      "metawear.z": -0.566406, 
+      "timestamp": 1421799073.843056, 
+      "metawear.x": 0.945312, 
+      "metawear.y": 5.445312
+    }, 
+    {
+      "metawear.z": -0.628906, 
+      "timestamp": 1421799073.858681, 
+      "metawear.x": 0.898438, 
+      "metawear.y": 5.796875
+    }, 
+    {
+      "metawear.z": -0.488281, 
+      "timestamp": 1421799073.874306, 
+      "metawear.x": 0.0, 
+      "metawear.y": 5.675781
+    }, 
+    {
+      "metawear.z": -0.261719, 
+      "timestamp": 1421799073.889931, 
+      "metawear.x": 0.136719, 
+      "metawear.y": 4.925781
+    }, 
+    {
+      "metawear.z": -0.628906, 
+      "timestamp": 1421799073.921181, 
+      "metawear.x": 0.273438, 
+      "metawear.y": 4.132812
+    }, 
+    {
+      "metawear.z": 0.089844, 
+      "timestamp": 1421799073.936806, 
+      "metawear.x": 0.195312, 
+      "metawear.y": 3.339844
+    }, 
+    {
+      "metawear.z": 0.121094, 
+      "timestamp": 1421799073.952431, 
+      "metawear.x": -0.324219, 
+      "metawear.y": 2.957031
+    }, 
+    {
+      "metawear.z": -0.308594, 
+      "timestamp": 1421799073.968056, 
+      "metawear.x": -0.445312, 
+      "metawear.y": 2.425781
+    }, 
+    {
+      "metawear.z": -0.503906, 
+      "timestamp": 1421799073.999306, 
+      "metawear.x": -0.382812, 
+      "metawear.y": 2.042969
+    }, 
+    {
+      "metawear.z": -0.429688, 
+      "timestamp": 1421799074.014931, 
+      "metawear.x": -0.167969, 
+      "metawear.y": 1.796875
+    }, 
+    {
+      "metawear.z": -0.765625, 
+      "timestamp": 1421799074.030556, 
+      "metawear.x": 0.136719, 
+      "metawear.y": 1.691406
+    }, 
+    {
+      "metawear.z": -0.933594, 
+      "timestamp": 1421799074.046181, 
+      "metawear.x": 0.257812, 
+      "metawear.y": 1.507812
+    }, 
+    {
+      "metawear.z": -1.070312, 
+      "timestamp": 1421799074.061806, 
+      "metawear.x": 0.089844, 
+      "metawear.y": 1.308594
+    }, 
+    {
+      "metawear.z": -1.191406, 
+      "timestamp": 1421799074.093056, 
+      "metawear.x": -0.261719, 
+      "metawear.y": 1.308594
+    }, 
+    {
+      "metawear.z": -1.359375, 
+      "timestamp": 1421799074.108681, 
+      "metawear.x": -0.382812, 
+      "metawear.y": 1.234375
+    }, 
+    {
+      "metawear.z": -1.726562, 
+      "timestamp": 1421799074.124306, 
+      "metawear.x": -1.132812, 
+      "metawear.y": 2.347656
+    }, 
+    {
+      "metawear.z": -2.046875, 
+      "timestamp": 1421799074.139931, 
+      "metawear.x": -1.757812, 
+      "metawear.y": 4.714844
+    }, 
+    {
+      "metawear.z": -3.601562, 
+      "timestamp": 1421799074.171181, 
+      "metawear.x": -1.878906, 
+      "metawear.y": 7.199219
+    }, 
+    {
+      "metawear.z": -4.945312, 
+      "timestamp": 1421799074.186806, 
+      "metawear.x": -1.632812, 
+      "metawear.y": 7.613281
+    }, 
+    {
+      "metawear.z": -4.074219, 
+      "timestamp": 1421799074.202431, 
+      "metawear.x": -1.160156, 
+      "metawear.y": 4.4375
+    }, 
+    {
+      "metawear.z": -3.480469, 
+      "timestamp": 1421799074.218056, 
+      "metawear.x": -1.023438, 
+      "metawear.y": 1.386719
+    }, 
+    {
+      "metawear.z": -2.277344, 
+      "timestamp": 1421799074.233681, 
+      "metawear.x": -0.765625, 
+      "metawear.y": 0.714844
+    }, 
+    {
+      "metawear.z": -1.3125, 
+      "timestamp": 1421799074.264931, 
+      "metawear.x": 1.140625, 
+      "metawear.y": 4.742188
+    }, 
+    {
+      "metawear.z": 1.15625, 
+      "timestamp": 1421799074.280556, 
+      "metawear.x": 0.835938, 
+      "metawear.y": 8.390625
+    }, 
+    {
+      "metawear.z": 0.136719, 
+      "timestamp": 1421799074.296181, 
+      "metawear.x": 0.488281, 
+      "metawear.y": 6.207031
+    }, 
+    {
+      "metawear.z": -0.644531, 
+      "timestamp": 1421799074.327431, 
+      "metawear.x": 0.195312, 
+      "metawear.y": 4.148438
+    }, 
+    {
+      "metawear.z": -0.382812, 
+      "timestamp": 1421799074.327431, 
+      "metawear.x": -0.277344, 
+      "metawear.y": 2.578125
+    }, 
+    {
+      "metawear.z": 0.273438, 
+      "timestamp": 1421799074.358681, 
+      "metawear.x": -0.0625, 
+      "metawear.y": 3.035156
+    }, 
+    {
+      "metawear.z": 0.425781, 
+      "timestamp": 1421799074.389931, 
+      "metawear.x": 0.457031, 
+      "metawear.y": 4.011719
+    }, 
+    {
+      "metawear.z": -0.335938, 
+      "timestamp": 1421799074.389931, 
+      "metawear.x": 0.042969, 
+      "metawear.y": 5.261719
+    }, 
+    {
+      "metawear.z": -0.6875, 
+      "timestamp": 1421799074.421181, 
+      "metawear.x": -0.398438, 
+      "metawear.y": 4.285156
+    }, 
+    {
+      "metawear.z": 0.121094, 
+      "timestamp": 1421799074.436806, 
+      "metawear.x": -0.445312, 
+      "metawear.y": 3.582031
+    }, 
+    {
+      "metawear.z": -0.183594, 
+      "timestamp": 1421799074.452431, 
+      "metawear.x": -0.582031, 
+      "metawear.y": 3.339844
+    }, 
+    {
+      "metawear.z": 0.042969, 
+      "timestamp": 1421799074.483681, 
+      "metawear.x": -0.367188, 
+      "metawear.y": 2.867188
+    }, 
+    {
+      "metawear.z": -0.109375, 
+      "timestamp": 1421799074.499306, 
+      "metawear.x": -0.398438, 
+      "metawear.y": 2.652344
+    }, 
+    {
+      "metawear.z": -0.367188, 
+      "timestamp": 1421799074.514931, 
+      "metawear.x": -0.582031, 
+      "metawear.y": 2.761719
+    }, 
+    {
+      "metawear.z": -0.308594, 
+      "timestamp": 1421799074.530556, 
+      "metawear.x": -0.796875, 
+      "metawear.y": 2.820312
+    }, 
+    {
+      "metawear.z": -0.125, 
+      "timestamp": 1421799074.546181, 
+      "metawear.x": -0.964844, 
+      "metawear.y": 2.914062
+    }, 
+    {
+      "metawear.z": -0.109375, 
+      "timestamp": 1421799074.577431, 
+      "metawear.x": -0.886719, 
+      "metawear.y": 2.761719
+    }, 
+    {
+      "metawear.z": -0.308594, 
+      "timestamp": 1421799074.593056, 
+      "metawear.x": -0.582031, 
+      "metawear.y": 2.882812
+    }, 
+    {
+      "metawear.z": -0.382812, 
+      "timestamp": 1421799074.608681, 
+      "metawear.x": -0.308594, 
+      "metawear.y": 3.082031
+    }, 
+    {
+      "metawear.z": -0.429688, 
+      "timestamp": 1421799074.624306, 
+      "metawear.x": -0.246094, 
+      "metawear.y": 3.261719
+    }, 
+    {
+      "metawear.z": -0.460938, 
+      "timestamp": 1421799074.655556, 
+      "metawear.x": -0.71875, 
+      "metawear.y": 3.660156
+    }, 
+    {
+      "metawear.z": -0.71875, 
+      "timestamp": 1421799074.671181, 
+      "metawear.x": -0.71875, 
+      "metawear.y": 4.117188
+    }, 
+    {
+      "metawear.z": -0.796875, 
+      "timestamp": 1421799074.686806, 
+      "metawear.x": -0.414062, 
+      "metawear.y": 4.773438
+    }, 
+    {
+      "metawear.z": -0.351562, 
+      "timestamp": 1421799074.702431, 
+      "metawear.x": -1.4375, 
+      "metawear.y": 4.683594
+    }, 
+    {
+      "metawear.z": -0.671875, 
+      "timestamp": 1421799074.718056, 
+      "metawear.x": -2.277344, 
+      "metawear.y": 4.132812
+    }, 
+    {
+      "metawear.z": -1.375, 
+      "timestamp": 1421799074.749306, 
+      "metawear.x": -1.800781, 
+      "metawear.y": 4.773438
+    }, 
+    {
+      "metawear.z": -0.78125, 
+      "timestamp": 1421799074.764931, 
+      "metawear.x": -1.558594, 
+      "metawear.y": 5.382812
+    }, 
+    {
+      "metawear.z": 0.089844, 
+      "timestamp": 1421799074.780556, 
+      "metawear.x": -0.15625, 
+      "metawear.y": 6.679688
+    }, 
+    {
+      "metawear.z": 0.164062, 
+      "timestamp": 1421799074.796181, 
+      "metawear.x": -0.382812, 
+      "metawear.y": 6.636719
+    }, 
+    {
+      "metawear.z": 1.035156, 
+      "timestamp": 1421799074.827431, 
+      "metawear.x": -0.0625, 
+      "metawear.y": 5.171875
+    }, 
+    {
+      "metawear.z": 0.683594, 
+      "timestamp": 1421799074.843056, 
+      "metawear.x": 0.347656, 
+      "metawear.y": 4.347656
+    }, 
+    {
+      "metawear.z": 0.273438, 
+      "timestamp": 1421799074.858681, 
+      "metawear.x": 0.851562, 
+      "metawear.y": 4.667969
+    }, 
+    {
+      "metawear.z": -0.261719, 
+      "timestamp": 1421799074.874306, 
+      "metawear.x": 1.203125, 
+      "metawear.y": 4.988281
+    }, 
+    {
+      "metawear.z": -0.429688, 
+      "timestamp": 1421799074.889931, 
+      "metawear.x": 0.457031, 
+      "metawear.y": 5.339844
+    }, 
+    {
+      "metawear.z": -0.308594, 
+      "timestamp": 1421799074.921181, 
+      "metawear.x": -0.277344, 
+      "metawear.y": 5.460938
+    }, 
+    {
+      "metawear.z": -0.03125, 
+      "timestamp": 1421799074.936806, 
+      "metawear.x": 0.179688, 
+      "metawear.y": 4.804688
+    }, 
+    {
+      "metawear.z": 0.0, 
+      "timestamp": 1421799074.952431, 
+      "metawear.x": 0.257812, 
+      "metawear.y": 3.738281
+    }, 
+    {
+      "metawear.z": -0.351562, 
+      "timestamp": 1421799074.983681, 
+      "metawear.x": -0.046875, 
+      "metawear.y": 3.371094
+    }, 
+    {
+      "metawear.z": -0.046875, 
+      "timestamp": 1421799074.983681, 
+      "metawear.x": 0.027344, 
+      "metawear.y": 2.515625
+    }, 
+    {
+      "metawear.z": -0.292969, 
+      "timestamp": 1421799075.014931, 
+      "metawear.x": -0.214844, 
+      "metawear.y": 2.179688
+    }, 
+    {
+      "metawear.z": -0.519531, 
+      "timestamp": 1421799075.046181, 
+      "metawear.x": -0.246094, 
+      "metawear.y": 1.507812
+    }, 
+    {
+      "metawear.z": -0.78125, 
+      "timestamp": 1421799075.046181, 
+      "metawear.x": -0.183594, 
+      "metawear.y": 1.660156
+    }, 
+    {
+      "metawear.z": -1.039062, 
+      "timestamp": 1421799075.077431, 
+      "metawear.x": -0.125, 
+      "metawear.y": 1.828125
+    }, 
+    {
+      "metawear.z": -1.222656, 
+      "timestamp": 1421799075.093056, 
+      "metawear.x": -0.351562, 
+      "metawear.y": 1.996094
+    }, 
+    {
+      "metawear.z": -0.964844, 
+      "timestamp": 1421799075.108681, 
+      "metawear.x": -0.550781, 
+      "metawear.y": 1.628906
+    }, 
+    {
+      "metawear.z": -0.671875, 
+      "timestamp": 1421799075.139931, 
+      "metawear.x": -0.488281, 
+      "metawear.y": 1.050781
+    }, 
+    {
+      "metawear.z": -1.480469, 
+      "timestamp": 1421799075.155556, 
+      "metawear.x": -0.109375, 
+      "metawear.y": 1.066406
+    }, 
+    {
+      "metawear.z": -2.960938, 
+      "timestamp": 1421799075.171181, 
+      "metawear.x": -0.503906, 
+      "metawear.y": 2.46875
+    }, 
+    {
+      "metawear.z": -3.664062, 
+      "timestamp": 1421799075.186806, 
+      "metawear.x": -1.375, 
+      "metawear.y": 5.171875
+    }, 
+    {
+      "metawear.z": -2.382812, 
+      "timestamp": 1421799075.202431, 
+      "metawear.x": -1.910156, 
+      "metawear.y": 7.597656
+    }, 
+    {
+      "metawear.z": -3.800781, 
+      "timestamp": 1421799075.233681, 
+      "metawear.x": -1.605469, 
+      "metawear.y": 8.023438
+    }, 
+    {
+      "metawear.z": -4.046875, 
+      "timestamp": 1421799075.249306, 
+      "metawear.x": -1.191406, 
+      "metawear.y": 4.132812
+    }, 
+    {
+      "metawear.z": -3.175781, 
+      "timestamp": 1421799075.264931, 
+      "metawear.x": -1.117188, 
+      "metawear.y": 1.660156
+    }, 
+    {
+      "metawear.z": -2.917969, 
+      "timestamp": 1421799075.280556, 
+      "metawear.x": -0.015625, 
+      "metawear.y": 5.15625
+    }, 
+    {
+      "metawear.z": -0.824219, 
+      "timestamp": 1421799075.311806, 
+      "metawear.x": -0.183594, 
+      "metawear.y": 7.382812
+    }, 
+    {
+      "metawear.z": 0.5625, 
+      "timestamp": 1421799075.327431, 
+      "metawear.x": 1.308594, 
+      "metawear.y": 3.890625
+    }, 
+    {
+      "metawear.z": 0.195312, 
+      "timestamp": 1421799075.343056, 
+      "metawear.x": 1.339844, 
+      "metawear.y": 2.46875
+    }, 
+    {
+      "metawear.z": -0.976562, 
+      "timestamp": 1421799075.358681, 
+      "metawear.x": 0.136719, 
+      "metawear.y": 3.796875
+    }, 
+    {
+      "metawear.z": -0.140625, 
+      "timestamp": 1421799075.374306, 
+      "metawear.x": -0.976562, 
+      "metawear.y": 3.933594
+    }, 
+    {
+      "metawear.z": 0.898438, 
+      "timestamp": 1421799075.405556, 
+      "metawear.x": -0.199219, 
+      "metawear.y": 3.171875
+    }, 
+    {
+      "metawear.z": 0.058594, 
+      "timestamp": 1421799075.421181, 
+      "metawear.x": -0.03125, 
+      "metawear.y": 3.996094
+    }, 
+    {
+      "metawear.z": -0.902344, 
+      "timestamp": 1421799075.436806, 
+      "metawear.x": -0.414062, 
+      "metawear.y": 3.859375
+    }, 
+    {
+      "metawear.z": -0.140625, 
+      "timestamp": 1421799075.452431, 
+      "metawear.x": -0.382812, 
+      "metawear.y": 3.523438
+    }, 
+    {
+      "metawear.z": -0.183594, 
+      "timestamp": 1421799075.483681, 
+      "metawear.x": -0.308594, 
+      "metawear.y": 3.203125
+    }, 
+    {
+      "metawear.z": -0.535156, 
+      "timestamp": 1421799075.499306, 
+      "metawear.x": -0.230469, 
+      "metawear.y": 3.203125
+    }, 
+    {
+      "metawear.z": 0.164062, 
+      "timestamp": 1421799075.514931, 
+      "metawear.x": -0.488281, 
+      "metawear.y": 2.929688
+    }, 
+    {
+      "metawear.z": 0.152344, 
+      "timestamp": 1421799075.530556, 
+      "metawear.x": -0.429688, 
+      "metawear.y": 2.652344
+    }, 
+    {
+      "metawear.z": 0.152344, 
+      "timestamp": 1421799075.546181, 
+      "metawear.x": -0.367188, 
+      "metawear.y": 2.820312
+    }, 
+    {
+      "metawear.z": 0.164062, 
+      "timestamp": 1421799075.577431, 
+      "metawear.x": -0.566406, 
+      "metawear.y": 2.972656
+    }, 
+    {
+      "metawear.z": 0.042969, 
+      "timestamp": 1421799075.593056, 
+      "metawear.x": -0.582031, 
+      "metawear.y": 2.988281
+    }, 
+    {
+      "metawear.z": -0.167969, 
+      "timestamp": 1421799075.608681, 
+      "metawear.x": -0.429688, 
+      "metawear.y": 3.09375
+    }, 
+    {
+      "metawear.z": -0.351562, 
+      "timestamp": 1421799075.639931, 
+      "metawear.x": -0.324219, 
+      "metawear.y": 3.339844
+    }, 
+    {
+      "metawear.z": -0.382812, 
+      "timestamp": 1421799075.639931, 
+      "metawear.x": -0.382812, 
+      "metawear.y": 3.492188
+    }, 
+    {
+      "metawear.z": -0.277344, 
+      "timestamp": 1421799075.671181, 
+      "metawear.x": -0.6875, 
+      "metawear.y": 3.554688
+    }, 
+    {
+      "metawear.z": -0.277344, 
+      "timestamp": 1421799075.702431, 
+      "metawear.x": -0.917969, 
+      "metawear.y": 4.027344
+    }, 
+    {
+      "metawear.z": -0.550781, 
+      "timestamp": 1421799075.702431, 
+      "metawear.x": -0.597656, 
+      "metawear.y": 4.699219
+    }, 
+    {
+      "metawear.z": -0.476562, 
+      "timestamp": 1421799075.733681, 
+      "metawear.x": -0.886719, 
+      "metawear.y": 4.972656
+    }, 
+    {
+      "metawear.z": -0.535156, 
+      "timestamp": 1421799075.749306, 
+      "metawear.x": -1.789062, 
+      "metawear.y": 4.40625
+    }, 
+    {
+      "metawear.z": -1.101562, 
+      "timestamp": 1421799075.764931, 
+      "metawear.x": -1.648438, 
+      "metawear.y": 4.851562
+    }, 
+    {
+      "metawear.z": -1.464844, 
+      "timestamp": 1421799075.796181, 
+      "metawear.x": -1.328125, 
+      "metawear.y": 5.324219
+    }, 
+    {
+      "metawear.z": -0.734375, 
+      "timestamp": 1421799075.811806, 
+      "metawear.x": -1.390625, 
+      "metawear.y": 5.019531
+    }, 
+    {
+      "metawear.z": -0.246094, 
+      "timestamp": 1421799075.827431, 
+      "metawear.x": -0.566406, 
+      "metawear.y": 5.535156
+    }, 
+    {
+      "metawear.z": 0.320312, 
+      "timestamp": 1421799075.843056, 
+      "metawear.x": -0.09375, 
+      "metawear.y": 5.476562
+    }, 
+    {
+      "metawear.z": 1.050781, 
+      "timestamp": 1421799075.858681, 
+      "metawear.x": 0.0, 
+      "metawear.y": 3.949219
+    }, 
+    {
+      "metawear.z": 0.699219, 
+      "timestamp": 1421799075.889931, 
+      "metawear.x": 0.5, 
+      "metawear.y": 3.628906
+    }, 
+    {
+      "metawear.z": 0.53125, 
+      "timestamp": 1421799075.905556, 
+      "metawear.x": 0.898438, 
+      "metawear.y": 4.652344
+    }, 
+    {
+      "metawear.z": -0.976562, 
+      "timestamp": 1421799075.921181, 
+      "metawear.x": 0.410156, 
+      "metawear.y": 5.828125
+    }, 
+    {
+      "metawear.z": -0.992188, 
+      "timestamp": 1421799075.936806, 
+      "metawear.x": -0.09375, 
+      "metawear.y": 6.5
+    }, 
+    {
+      "metawear.z": -0.476562, 
+      "timestamp": 1421799075.968056, 
+      "metawear.x": -0.613281, 
+      "metawear.y": 5.796875
+    }, 
+    {
+      "metawear.z": -0.167969, 
+      "timestamp": 1421799075.983681, 
+      "metawear.x": -0.382812, 
+      "metawear.y": 4.988281
+    }, 
+    {
+      "metawear.z": -0.03125, 
+      "timestamp": 1421799075.999306, 
+      "metawear.x": 0.304688, 
+      "metawear.y": 3.738281
+    }, 
+    {
+      "metawear.z": -0.199219, 
+      "timestamp": 1421799076.014931, 
+      "metawear.x": 0.320312, 
+      "metawear.y": 3.171875
+    }, 
+    {
+      "metawear.z": -0.324219, 
+      "timestamp": 1421799076.030556, 
+      "metawear.x": 0.0, 
+      "metawear.y": 2.242188
+    }, 
+    {
+      "metawear.z": -0.398438, 
+      "timestamp": 1421799076.061806, 
+      "metawear.x": 0.121094, 
+      "metawear.y": 1.828125
+    }, 
+    {
+      "metawear.z": -0.277344, 
+      "timestamp": 1421799076.077431, 
+      "metawear.x": 0.179688, 
+      "metawear.y": 1.585938
+    }, 
+    {
+      "metawear.z": -0.460938, 
+      "timestamp": 1421799076.093056, 
+      "metawear.x": 0.136719, 
+      "metawear.y": 1.601562
+    }, 
+    {
+      "metawear.z": -0.78125, 
+      "timestamp": 1421799076.108681, 
+      "metawear.x": 0.011719, 
+      "metawear.y": 1.585938
+    }, 
+    {
+      "metawear.z": -0.8125, 
+      "timestamp": 1421799076.139931, 
+      "metawear.x": -0.078125, 
+      "metawear.y": 1.523438
+    }, 
+    {
+      "metawear.z": -0.796875, 
+      "timestamp": 1421799076.155556, 
+      "metawear.x": -0.109375, 
+      "metawear.y": 0.988281
+    }, 
+    {
+      "metawear.z": -1.648438, 
+      "timestamp": 1421799076.171181, 
+      "metawear.x": -0.140625, 
+      "metawear.y": 0.820312
+    }, 
+    {
+      "metawear.z": -2.503906, 
+      "timestamp": 1421799076.186806, 
+      "metawear.x": -0.445312, 
+      "metawear.y": 1.90625
+    }, 
+    {
+      "metawear.z": -2.871094, 
+      "timestamp": 1421799076.202431, 
+      "metawear.x": -1.023438, 
+      "metawear.y": 4.40625
+    }, 
+    {
+      "metawear.z": -2.671875, 
+      "timestamp": 1421799076.233681, 
+      "metawear.x": -1.574219, 
+      "metawear.y": 6.972656
+    }, 
+    {
+      "metawear.z": -3.542969, 
+      "timestamp": 1421799076.249306, 
+      "metawear.x": -2.109375, 
+      "metawear.y": 8.160156
+    }, 
+    {
+      "metawear.z": -3.742188, 
+      "timestamp": 1421799076.264931, 
+      "metawear.x": -1.238281, 
+      "metawear.y": 5.171875
+    }, 
+    {
+      "metawear.z": -3.375, 
+      "timestamp": 1421799076.296181, 
+      "metawear.x": -0.671875, 
+      "metawear.y": 2.179688
+    }, 
+    {
+      "metawear.z": -3.160156, 
+      "timestamp": 1421799076.296181, 
+      "metawear.x": -0.488281, 
+      "metawear.y": 2.210938
+    }, 
+    {
+      "metawear.z": -3.128906, 
+      "timestamp": 1421799076.327431, 
+      "metawear.x": 0.164062, 
+      "metawear.y": 6.636719
+    }, 
+    {
+      "metawear.z": -0.503906, 
+      "timestamp": 1421799076.358681, 
+      "metawear.x": 0.042969, 
+      "metawear.y": 7.519531
+    }, 
+    {
+      "metawear.z": 0.5, 
+      "timestamp": 1421799076.358681, 
+      "metawear.x": 0.929688, 
+      "metawear.y": 3.890625
+    }, 
+    {
+      "metawear.z": -0.335938, 
+      "timestamp": 1421799076.389931, 
+      "metawear.x": 0.714844, 
+      "metawear.y": 2.011719
+    }, 
+    {
+      "metawear.z": -0.6875, 
+      "timestamp": 1421799076.405556, 
+      "metawear.x": 0.289062, 
+      "metawear.y": 3.082031
+    }, 
+    {
+      "metawear.z": -0.460938, 
+      "timestamp": 1421799076.421181, 
+      "metawear.x": -0.839844, 
+      "metawear.y": 3.644531
+    }, 
+    {
+      "metawear.z": 1.15625, 
+      "timestamp": 1421799076.452431, 
+      "metawear.x": -0.488281, 
+      "metawear.y": 3.445312
+    }, 
+    {
+      "metawear.z": 0.179688, 
+      "timestamp": 1421799076.468056, 
+      "metawear.x": -0.414062, 
+      "metawear.y": 4.347656
+    }, 
+    {
+      "metawear.z": -0.71875, 
+      "timestamp": 1421799076.483681, 
+      "metawear.x": -0.839844, 
+      "metawear.y": 3.675781
+    }, 
+    {
+      "metawear.z": 0.304688, 
+      "timestamp": 1421799076.499306, 
+      "metawear.x": -0.351562, 
+      "metawear.y": 3.171875
+    }, 
+    {
+      "metawear.z": -0.324219, 
+      "timestamp": 1421799076.514931, 
+      "metawear.x": 0.195312, 
+      "metawear.y": 3.050781
+    }, 
+    {
+      "metawear.z": -0.414062, 
+      "timestamp": 1421799076.546181, 
+      "metawear.x": -0.183594, 
+      "metawear.y": 3.109375
+    }, 
+    {
+      "metawear.z": 0.164062, 
+      "timestamp": 1421799076.561806, 
+      "metawear.x": -0.292969, 
+      "metawear.y": 2.59375
+    }, 
+    {
+      "metawear.z": 0.105469, 
+      "timestamp": 1421799076.577431, 
+      "metawear.x": -0.519531, 
+      "metawear.y": 2.5625
+    }, 
+    {
+      "metawear.z": 0.195312, 
+      "timestamp": 1421799076.593056, 
+      "metawear.x": -0.71875, 
+      "metawear.y": 2.820312
+    }, 
+    {
+      "metawear.z": 0.363281, 
+      "timestamp": 1421799076.624306, 
+      "metawear.x": -0.6875, 
+      "metawear.y": 3.066406
+    }, 
+    {
+      "metawear.z": -0.03125, 
+      "timestamp": 1421799076.639931, 
+      "metawear.x": -0.535156, 
+      "metawear.y": 3.171875
+    }, 
+    {
+      "metawear.z": -0.199219, 
+      "timestamp": 1421799076.655556, 
+      "metawear.x": -0.429688, 
+      "metawear.y": 3.339844
+    }, 
+    {
+      "metawear.z": -0.488281, 
+      "timestamp": 1421799076.671181, 
+      "metawear.x": -0.445312, 
+      "metawear.y": 3.492188
+    }, 
+    {
+      "metawear.z": -0.535156, 
+      "timestamp": 1421799076.686806, 
+      "metawear.x": -0.597656, 
+      "metawear.y": 3.539062
+    }, 
+    {
+      "metawear.z": -0.308594, 
+      "timestamp": 1421799076.718056, 
+      "metawear.x": -0.78125, 
+      "metawear.y": 3.675781
+    }, 
+    {
+      "metawear.z": -0.230469, 
+      "timestamp": 1421799076.733681, 
+      "metawear.x": -0.902344, 
+      "metawear.y": 4.238281
+    }, 
+    {
+      "metawear.z": -0.367188, 
+      "timestamp": 1421799076.749306, 
+      "metawear.x": -0.75, 
+      "metawear.y": 4.882812
+    }, 
+    {
+      "metawear.z": -0.214844, 
+      "timestamp": 1421799076.764931, 
+      "metawear.x": -1.328125, 
+      "metawear.y": 4.773438
+    }, 
+    {
+      "metawear.z": -0.308594, 
+      "timestamp": 1421799076.796181, 
+      "metawear.x": -1.847656, 
+      "metawear.y": 4.421875
+    }, 
+    {
+      "metawear.z": -0.992188, 
+      "timestamp": 1421799076.811806, 
+      "metawear.x": -1.511719, 
+      "metawear.y": 5.046875
+    }, 
+    {
+      "metawear.z": -1.144531, 
+      "timestamp": 1421799076.827431, 
+      "metawear.x": -1.132812, 
+      "metawear.y": 5.214844
+    }, 
+    {
+      "metawear.z": -0.214844, 
+      "timestamp": 1421799076.843056, 
+      "metawear.x": -1.085938, 
+      "metawear.y": 5.109375
+    }, 
+    {
+      "metawear.z": -0.0625, 
+      "timestamp": 1421799076.858681, 
+      "metawear.x": 0.105469, 
+      "metawear.y": 5.964844
+    }, 
+    {
+      "metawear.z": 0.289062, 
+      "timestamp": 1421799076.889931, 
+      "metawear.x": 0.121094, 
+      "metawear.y": 4.652344
+    }, 
+    {
+      "metawear.z": 1.507812, 
+      "timestamp": 1421799076.905556, 
+      "metawear.x": 0.347656, 
+      "metawear.y": 3.722656
+    }, 
+    {
+      "metawear.z": 0.042969, 
+      "timestamp": 1421799076.921181, 
+      "metawear.x": 0.761719, 
+      "metawear.y": 4.332031
+    }, 
+    {
+      "metawear.z": -0.65625, 
+      "timestamp": 1421799076.952431, 
+      "metawear.x": 0.761719, 
+      "metawear.y": 5.292969
+    }, 
+    {
+      "metawear.z": -1.238281, 
+      "timestamp": 1421799076.952431, 
+      "metawear.x": 0.179688, 
+      "metawear.y": 6.375
+    }, 
+    {
+      "metawear.z": -1.085938, 
+      "timestamp": 1421799076.983681, 
+      "metawear.x": -0.734375, 
+      "metawear.y": 6.148438
+    }, 
+    {
+      "metawear.z": -0.671875, 
+      "timestamp": 1421799077.014931, 
+      "metawear.x": -0.550781, 
+      "metawear.y": 5.0625
+    }, 
+    {
+      "metawear.z": -0.046875, 
+      "timestamp": 1421799077.014931, 
+      "metawear.x": 0.164062, 
+      "metawear.y": 3.90625
+    }, 
+    {
+      "metawear.z": -0.03125, 
+      "timestamp": 1421799077.046181, 
+      "metawear.x": 0.257812, 
+      "metawear.y": 3.1875
+    }, 
+    {
+      "metawear.z": -0.445312, 
+      "timestamp": 1421799077.061806, 
+      "metawear.x": 0.042969, 
+      "metawear.y": 2.394531
+    }, 
+    {
+      "metawear.z": -0.503906, 
+      "timestamp": 1421799077.077431, 
+      "metawear.x": 0.027344, 
+      "metawear.y": 1.875
+    }, 
+    {
+      "metawear.z": -0.398438, 
+      "timestamp": 1421799077.108681, 
+      "metawear.x": 0.121094, 
+      "metawear.y": 1.554688
+    }, 
+    {
+      "metawear.z": -0.597656, 
+      "timestamp": 1421799077.124306, 
+      "metawear.x": 0.257812, 
+      "metawear.y": 1.433594
+    }, 
+    {
+      "metawear.z": -0.917969, 
+      "timestamp": 1421799077.139931, 
+      "metawear.x": 0.179688, 
+      "metawear.y": 1.265625
+    }, 
+    {
+      "metawear.z": -0.917969, 
+      "timestamp": 1421799077.155556, 
+      "metawear.x": -0.0625, 
+      "metawear.y": 1.539062
+    }, 
+    {
+      "metawear.z": -1.132812, 
+      "timestamp": 1421799077.171181, 
+      "metawear.x": -0.125, 
+      "metawear.y": 1.203125
+    }, 
+    {
+      "metawear.z": -1.832031, 
+      "timestamp": 1421799077.202431, 
+      "metawear.x": -0.261719, 
+      "metawear.y": 0.914062
+    }, 
+    {
+      "metawear.z": -2.429688, 
+      "timestamp": 1421799077.218056, 
+      "metawear.x": -0.992188, 
+      "metawear.y": 1.554688
+    }, 
+    {
+      "metawear.z": -2.230469, 
+      "timestamp": 1421799077.233681, 
+      "metawear.x": -1.742188, 
+      "metawear.y": 3.582031
+    }, 
+    {
+      "metawear.z": -2.109375, 
+      "timestamp": 1421799077.249306, 
+      "metawear.x": -1.453125, 
+      "metawear.y": 7.292969
+    }, 
+    {
+      "metawear.z": -4.976562, 
+      "timestamp": 1421799077.280556, 
+      "metawear.x": -1.574219, 
+      "metawear.y": 9.734375
+    }, 
+    {
+      "metawear.z": -4.6875, 
+      "timestamp": 1421799077.296181, 
+      "metawear.x": -1.070312, 
+      "metawear.y": 5.230469
+    }, 
+    {
+      "metawear.z": -3.085938, 
+      "timestamp": 1421799077.311806, 
+      "metawear.x": -0.503906, 
+      "metawear.y": 1.097656
+    }, 
+    {
+      "metawear.z": -2.320312, 
+      "timestamp": 1421799077.327431, 
+      "metawear.x": 0.242188, 
+      "metawear.y": 2.164062
+    }, 
+    {
+      "metawear.z": -0.976562, 
+      "timestamp": 1421799077.343056, 
+      "metawear.x": 0.273438, 
+      "metawear.y": 8.054688
+    }, 
+    {
+      "metawear.z": -0.308594, 
+      "timestamp": 1421799077.374306, 
+      "metawear.x": 0.347656, 
+      "metawear.y": 6.679688
+    }, 
+    {
+      "metawear.z": 0.242188, 
+      "timestamp": 1421799077.389931, 
+      "metawear.x": 0.761719, 
+      "metawear.y": 2.867188
+    }, 
+    {
+      "metawear.z": -0.398438, 
+      "timestamp": 1421799077.405556, 
+      "metawear.x": 1.113281, 
+      "metawear.y": 2.636719
+    }, 
+    {
+      "metawear.z": -1.085938, 
+      "timestamp": 1421799077.421181, 
+      "metawear.x": -0.8125, 
+      "metawear.y": 3.980469
+    }, 
+    {
+      "metawear.z": 0.851562, 
+      "timestamp": 1421799077.452431, 
+      "metawear.x": -0.902344, 
+      "metawear.y": 3.765625
+    }, 
+    {
+      "metawear.z": 0.761719, 
+      "timestamp": 1421799077.468056, 
+      "metawear.x": 0.027344, 
+      "metawear.y": 4.378906
+    }, 
+    {
+      "metawear.z": -0.613281, 
+      "timestamp": 1421799077.483681, 
+      "metawear.x": -0.597656, 
+      "metawear.y": 4.058594
+    }, 
+    {
+      "metawear.z": 0.042969, 
+      "timestamp": 1421799077.499306, 
+      "metawear.x": -0.75, 
+      "metawear.y": 3.261719
+    }, 
+    {
+      "metawear.z": 0.242188, 
+      "timestamp": 1421799077.514931, 
+      "metawear.x": -0.15625, 
+      "metawear.y": 3.171875
+    }, 
+    {
+      "metawear.z": -0.382812, 
+      "timestamp": 1421799077.546181, 
+      "metawear.x": 0.0, 
+      "metawear.y": 3.417969
+    }, 
+    {
+      "metawear.z": -0.214844, 
+      "timestamp": 1421799077.561806, 
+      "metawear.x": 0.042969, 
+      "metawear.y": 2.761719
+    }, 
+    {
+      "metawear.z": 0.226562, 
+      "timestamp": 1421799077.577431, 
+      "metawear.x": -0.335938, 
+      "metawear.y": 2.332031
+    }, 
+    {
+      "metawear.z": 0.195312, 
+      "timestamp": 1421799077.608681, 
+      "metawear.x": -0.445312, 
+      "metawear.y": 2.394531
+    }, 
+    {
+      "metawear.z": 0.058594, 
+      "timestamp": 1421799077.608681, 
+      "metawear.x": -0.488281, 
+      "metawear.y": 2.699219
+    }, 
+    {
+      "metawear.z": 0.152344, 
+      "timestamp": 1421799077.639931, 
+      "metawear.x": -0.671875, 
+      "metawear.y": 2.929688
+    }, 
+    {
+      "metawear.z": 0.027344, 
+      "timestamp": 1421799077.671181, 
+      "metawear.x": -0.6875, 
+      "metawear.y": 2.972656
+    }, 
+    {
+      "metawear.z": -0.199219, 
+      "timestamp": 1421799077.671181, 
+      "metawear.x": -0.382812, 
+      "metawear.y": 3.308594
+    }, 
+    {
+      "metawear.z": -0.445312, 
+      "timestamp": 1421799077.702431, 
+      "metawear.x": -0.261719, 
+      "metawear.y": 3.644531
+    }, 
+    {
+      "metawear.z": -0.488281, 
+      "timestamp": 1421799077.718056, 
+      "metawear.x": -0.382812, 
+      "metawear.y": 3.90625
+    }, 
+    {
+      "metawear.z": -0.414062, 
+      "timestamp": 1421799077.733681, 
+      "metawear.x": -0.855469, 
+      "metawear.y": 4.210938
+    }, 
+    {
+      "metawear.z": -0.519531, 
+      "timestamp": 1421799077.764931, 
+      "metawear.x": -0.78125, 
+      "metawear.y": 4.757812
+    }, 
+    {
+      "metawear.z": -0.277344, 
+      "timestamp": 1421799077.780556, 
+      "metawear.x": -1.222656, 
+      "metawear.y": 4.972656
+    }, 
+    {
+      "metawear.z": -0.519531, 
+      "timestamp": 1421799077.796181, 
+      "metawear.x": -1.984375, 
+      "metawear.y": 4.332031
+    }, 
+    {
+      "metawear.z": -1.207031, 
+      "timestamp": 1421799077.811806, 
+      "metawear.x": -1.574219, 
+      "metawear.y": 4.972656
+    }, 
+    {
+      "metawear.z": -1.132812, 
+      "timestamp": 1421799077.827431, 
+      "metawear.x": -1.207031, 
+      "metawear.y": 5.414062
+    }, 
+    {
+      "metawear.z": -0.140625, 
+      "timestamp": 1421799077.858681, 
+      "metawear.x": -0.824219, 
+      "metawear.y": 5.613281
+    }, 
+    {
+      "metawear.z": 0.488281, 
+      "timestamp": 1421799077.874306, 
+      "metawear.x": -0.167969, 
+      "metawear.y": 6.316406
+    }, 
+    {
+      "metawear.z": 0.714844, 
+      "timestamp": 1421799077.889931, 
+      "metawear.x": -0.308594, 
+      "metawear.y": 5.476562
+    }, 
+    {
+      "metawear.z": 1.523438, 
+      "timestamp": 1421799077.905556, 
+      "metawear.x": 0.457031, 
+      "metawear.y": 4.164062
+    }, 
+    {
+      "metawear.z": 0.363281, 
+      "timestamp": 1421799077.936806, 
+      "metawear.x": 0.851562, 
+      "metawear.y": 4.652344
+    }, 
+    {
+      "metawear.z": -0.183594, 
+      "timestamp": 1421799077.952431, 
+      "metawear.x": 1.097656, 
+      "metawear.y": 5.0625
+    }, 
+    {
+      "metawear.z": -0.566406, 
+      "timestamp": 1421799077.968056, 
+      "metawear.x": 0.625, 
+      "metawear.y": 5.550781
+    }, 
+    {
+      "metawear.z": -0.644531, 
+      "timestamp": 1421799077.983681, 
+      "metawear.x": -0.167969, 
+      "metawear.y": 5.660156
+    }, 
+    {
+      "metawear.z": -0.382812, 
+      "timestamp": 1421799077.999306, 
+      "metawear.x": -0.277344, 
+      "metawear.y": 5.140625
+    }, 
+    {
+      "metawear.z": -0.65625, 
+      "timestamp": 1421799078.030556, 
+      "metawear.x": -0.09375, 
+      "metawear.y": 4.300781
+    }, 
+    {
+      "metawear.z": 0.609375, 
+      "timestamp": 1421799078.046181, 
+      "metawear.x": 0.105469, 
+      "metawear.y": 2.898438
+    }, 
+    {
+      "metawear.z": -0.308594, 
+      "timestamp": 1421799078.061806, 
+      "metawear.x": -0.246094, 
+      "metawear.y": 2.699219
+    }, 
+    {
+      "metawear.z": -0.445312, 
+      "timestamp": 1421799078.077431, 
+      "metawear.x": -0.324219, 
+      "metawear.y": 2.210938
+    }, 
+    {
+      "metawear.z": -0.335938, 
+      "timestamp": 1421799078.108681, 
+      "metawear.x": -0.109375, 
+      "metawear.y": 1.644531
+    }, 
+    {
+      "metawear.z": -0.476562, 
+      "timestamp": 1421799078.124306, 
+      "metawear.x": 0.089844, 
+      "metawear.y": 1.339844
+    }, 
+    {
+      "metawear.z": -0.519531, 
+      "timestamp": 1421799078.139931, 
+      "metawear.x": -0.03125, 
+      "metawear.y": 1.449219
+    }, 
+    {
+      "metawear.z": -0.703125, 
+      "timestamp": 1421799078.155556, 
+      "metawear.x": 0.0, 
+      "metawear.y": 1.386719
+    }, 
+    {
+      "metawear.z": -0.703125, 
+      "timestamp": 1421799078.171181, 
+      "metawear.x": -0.109375, 
+      "metawear.y": 1.140625
+    }, 
+    {
+      "metawear.z": -1.160156, 
+      "timestamp": 1421799078.202431, 
+      "metawear.x": -0.109375, 
+      "metawear.y": 0.714844
+    }, 
+    {
+      "metawear.z": -2.136719, 
+      "timestamp": 1421799078.218056, 
+      "metawear.x": -0.292969, 
+      "metawear.y": 1.097656
+    }, 
+    {
+      "metawear.z": -2.65625, 
+      "timestamp": 1421799078.233681, 
+      "metawear.x": -0.949219, 
+      "metawear.y": 3.308594
+    }, 
+    {
+      "metawear.z": -2.777344, 
+      "timestamp": 1421799078.264931, 
+      "metawear.x": -1.328125, 
+      "metawear.y": 6.269531
+    }, 
+    {
+      "metawear.z": -3.96875, 
+      "timestamp": 1421799078.264931, 
+      "metawear.x": -2.152344, 
+      "metawear.y": 8.742188
+    }, 
+    {
+      "metawear.z": -4.167969, 
+      "timestamp": 1421799078.296181, 
+      "metawear.x": -1.621094, 
+      "metawear.y": 6.894531
+    }, 
+    {
+      "metawear.z": -3.527344, 
+      "timestamp": 1421799078.327431, 
+      "metawear.x": -0.613281, 
+      "metawear.y": 3.003906
+    }, 
+    {
+      "metawear.z": -2.992188, 
+      "timestamp": 1421799078.327431, 
+      "metawear.x": -0.503906, 
+      "metawear.y": 1.386719
+    }, 
+    {
+      "metawear.z": -3.238281, 
+      "timestamp": 1421799078.358681, 
+      "metawear.x": 0.273438, 
+      "metawear.y": 3.066406
+    }, 
+    {
+      "metawear.z": -0.613281, 
+      "timestamp": 1421799078.374306, 
+      "metawear.x": 0.136719, 
+      "metawear.y": 7.308594
+    }, 
+    {
+      "metawear.z": 1.203125, 
+      "timestamp": 1421799078.389931, 
+      "metawear.x": 1.296875, 
+      "metawear.y": 6.148438
+    }, 
+    {
+      "metawear.z": -0.046875, 
+      "timestamp": 1421799078.421181, 
+      "metawear.x": 0.640625, 
+      "metawear.y": 3.964844
+    }, 
+    {
+      "metawear.z": -0.71875, 
+      "timestamp": 1421799078.436806, 
+      "metawear.x": 0.320312, 
+      "metawear.y": 3.796875
+    }, 
+    {
+      "metawear.z": -0.429688, 
+      "timestamp": 1421799078.452431, 
+      "metawear.x": -0.765625, 
+      "metawear.y": 3.445312
+    }, 
+    {
+      "metawear.z": 1.019531, 
+      "timestamp": 1421799078.468056, 
+      "metawear.x": -0.351562, 
+      "metawear.y": 3.371094
+    }, 
+    {
+      "metawear.z": 0.152344, 
+      "timestamp": 1421799078.483681, 
+      "metawear.x": -0.09375, 
+      "metawear.y": 3.890625
+    }, 
+    {
+      "metawear.z": -0.6875, 
+      "timestamp": 1421799078.514931, 
+      "metawear.x": -0.8125, 
+      "metawear.y": 3.765625
+    }, 
+    {
+      "metawear.z": 0.273438, 
+      "timestamp": 1421799078.530556, 
+      "metawear.x": -0.488281, 
+      "metawear.y": 2.957031
+    }, 
+    {
+      "metawear.z": -0.09375, 
+      "timestamp": 1421799078.546181, 
+      "metawear.x": -0.308594, 
+      "metawear.y": 3.140625
+    }, 
+    {
+      "metawear.z": -0.292969, 
+      "timestamp": 1421799078.561806, 
+      "metawear.x": -0.351562, 
+      "metawear.y": 2.929688
+    }, 
+    {
+      "metawear.z": 0.394531, 
+      "timestamp": 1421799078.593056, 
+      "metawear.x": -0.230469, 
+      "metawear.y": 2.210938
+    }, 
+    {
+      "metawear.z": 0.027344, 
+      "timestamp": 1421799078.608681, 
+      "metawear.x": -0.308594, 
+      "metawear.y": 2.636719
+    }, 
+    {
+      "metawear.z": 0.105469, 
+      "timestamp": 1421799078.624306, 
+      "metawear.x": -0.335938, 
+      "metawear.y": 2.746094
+    }, 
+    {
+      "metawear.z": 0.042969, 
+      "timestamp": 1421799078.639931, 
+      "metawear.x": -0.488281, 
+      "metawear.y": 3.339844
+    }, 
+    {
+      "metawear.z": -0.15625, 
+      "timestamp": 1421799078.655556, 
+      "metawear.x": -0.824219, 
+      "metawear.y": 3.1875
+    }, 
+    {
+      "metawear.z": -0.261719, 
+      "timestamp": 1421799078.686806, 
+      "metawear.x": -0.949219, 
+      "metawear.y": 3.1875
+    }, 
+    {
+      "metawear.z": -0.535156, 
+      "timestamp": 1421799078.702431, 
+      "metawear.x": -0.886719, 
+      "metawear.y": 3.324219
+    }, 
+    {
+      "metawear.z": -0.566406, 
+      "timestamp": 1421799078.718056, 
+      "metawear.x": -0.6875, 
+      "metawear.y": 3.628906
+    }, 
+    {
+      "metawear.z": -0.351562, 
+      "timestamp": 1421799078.733681, 
+      "metawear.x": -0.71875, 
+      "metawear.y": 4.058594
+    }, 
+    {
+      "metawear.z": -0.308594, 
+      "timestamp": 1421799078.764931, 
+      "metawear.x": -0.886719, 
+      "metawear.y": 4.453125
+    }, 
+    {
+      "metawear.z": -0.414062, 
+      "timestamp": 1421799078.780556, 
+      "metawear.x": -0.78125, 
+      "metawear.y": 4.804688
+    }, 
+    {
+      "metawear.z": -0.277344, 
+      "timestamp": 1421799078.796181, 
+      "metawear.x": -1.238281, 
+      "metawear.y": 4.4375
+    }, 
+    {
+      "metawear.z": -0.550781, 
+      "timestamp": 1421799078.811806, 
+      "metawear.x": -1.695312, 
+      "metawear.y": 4.117188
+    }, 
+    {
+      "metawear.z": -1.023438, 
+      "timestamp": 1421799078.827431, 
+      "metawear.x": -1.3125, 
+      "metawear.y": 4.804688
+    }, 
+    {
+      "metawear.z": -0.367188, 
+      "timestamp": 1421799078.858681, 
+      "metawear.x": -1.328125, 
+      "metawear.y": 4.957031
+    }, 
+    {
+      "metawear.z": 0.152344, 
+      "timestamp": 1421799078.874306, 
+      "metawear.x": -0.277344, 
+      "metawear.y": 6.070312
+    }, 
+    {
+      "metawear.z": 0.425781, 
+      "timestamp": 1421799078.889931, 
+      "metawear.x": 0.027344, 
+      "metawear.y": 6.191406
+    }, 
+    {
+      "metawear.z": 1.082031, 
+      "timestamp": 1421799078.921181, 
+      "metawear.x": 0.457031, 
+      "metawear.y": 4.988281
+    }, 
+    {
+      "metawear.z": 0.808594, 
+      "timestamp": 1421799078.921181, 
+      "metawear.x": 0.59375, 
+      "metawear.y": 4.253906
+    }, 
+    {
+      "metawear.z": 0.152344, 
+      "timestamp": 1421799078.952431, 
+      "metawear.x": 0.820312, 
+      "metawear.y": 4.941406
+    }, 
+    {
+      "metawear.z": -0.488281, 
+      "timestamp": 1421799078.983681, 
+      "metawear.x": 1.066406, 
+      "metawear.y": 5.140625
+    }, 
+    {
+      "metawear.z": -1.070312, 
+      "timestamp": 1421799078.983681, 
+      "metawear.x": 0.105469, 
+      "metawear.y": 5.886719
+    }, 
+    {
+      "metawear.z": -0.949219, 
+      "timestamp": 1421799079.014931, 
+      "metawear.x": -0.703125, 
+      "metawear.y": 5.84375
+    }, 
+    {
+      "metawear.z": -0.429688, 
+      "timestamp": 1421799079.014931, 
+      "metawear.x": -0.671875, 
+      "metawear.y": 4.667969
+    }, 
+    {
+      "metawear.z": -0.429688, 
+      "timestamp": 1421799079.046181, 
+      "metawear.x": -0.382812, 
+      "metawear.y": 4.011719
+    }, 
+    {
+      "metawear.z": 0.363281, 
+      "timestamp": 1421799079.077431, 
+      "metawear.x": -0.199219, 
+      "metawear.y": 3.203125
+    }, 
+    {
+      "metawear.z": -0.0625, 
+      "timestamp": 1421799079.093056, 
+      "metawear.x": -0.277344, 
+      "metawear.y": 2.699219
+    }, 
+    {
+      "metawear.z": -0.476562, 
+      "timestamp": 1421799079.108681, 
+      "metawear.x": -0.046875, 
+      "metawear.y": 2.210938
+    }, 
+    {
+      "metawear.z": -0.445312, 
+      "timestamp": 1421799079.124306, 
+      "metawear.x": 0.089844, 
+      "metawear.y": 1.722656
+    }, 
+    {
+      "metawear.z": -0.671875, 
+      "timestamp": 1421799079.139931, 
+      "metawear.x": 0.152344, 
+      "metawear.y": 1.570312
+    }, 
+    {
+      "metawear.z": -0.671875, 
+      "timestamp": 1421799079.171181, 
+      "metawear.x": 0.058594, 
+      "metawear.y": 1.402344
+    }, 
+    {
+      "metawear.z": -0.871094, 
+      "timestamp": 1421799079.186806, 
+      "metawear.x": -0.078125, 
+      "metawear.y": 1.28125
+    }, 
+    {
+      "metawear.z": -0.644531, 
+      "timestamp": 1421799079.202431, 
+      "metawear.x": -0.308594, 
+      "metawear.y": 1.25
+    }, 
+    {
+      "metawear.z": -0.597656, 
+      "timestamp": 1421799079.218056, 
+      "metawear.x": -0.140625, 
+      "metawear.y": 0.882812
+    }, 
+    {
+      "metawear.z": -1.191406, 
+      "timestamp": 1421799079.249306, 
+      "metawear.x": -0.167969, 
+      "metawear.y": 1.21875
+    }, 
+    {
+      "metawear.z": -2.261719, 
+      "timestamp": 1421799079.264931, 
+      "metawear.x": -0.855469, 
+      "metawear.y": 3.539062
+    }, 
+    {
+      "metawear.z": -3.070312, 
+      "timestamp": 1421799079.280556, 
+      "metawear.x": -1.742188, 
+      "metawear.y": 6.207031
+    }, 
+    {
+      "metawear.z": -4.457031, 
+      "timestamp": 1421799079.296181, 
+      "metawear.x": -2.199219, 
+      "metawear.y": 7.917969
+    }, 
+    {
+      "metawear.z": -4.214844, 
+      "timestamp": 1421799079.311806, 
+      "metawear.x": -1.359375, 
+      "metawear.y": 5.75
+    }, 
+    {
+      "metawear.z": -3.328125, 
+      "timestamp": 1421799079.343056, 
+      "metawear.x": -1.023438, 
+      "metawear.y": 2.605469
+    }, 
+    {
+      "metawear.z": -2.367188, 
+      "timestamp": 1421799079.358681, 
+      "metawear.x": -0.886719, 
+      "metawear.y": 1.386719
+    }, 
+    {
+      "metawear.z": -2.167969, 
+      "timestamp": 1421799079.374306, 
+      "metawear.x": 0.808594, 
+      "metawear.y": 6.390625
+    }, 
+    {
+      "metawear.z": 0.59375, 
+      "timestamp": 1421799079.389931, 
+      "metawear.x": -0.230469, 
+      "metawear.y": 8.222656
+    }, 
+    {
+      "metawear.z": 1.1875, 
+      "timestamp": 1421799079.421181, 
+      "metawear.x": 1.019531, 
+      "metawear.y": 4.253906
+    }, 
+    {
+      "metawear.z": -0.214844, 
+      "timestamp": 1421799079.436806, 
+      "metawear.x": 0.988281, 
+      "metawear.y": 3.75
+    }, 
+    {
+      "metawear.z": -0.382812, 
+      "timestamp": 1421799079.452431, 
+      "metawear.x": -0.613281, 
+      "metawear.y": 3.292969
+    }, 
+    {
+      "metawear.z": 0.320312, 
+      "timestamp": 1421799079.468056, 
+      "metawear.x": -0.230469, 
+      "metawear.y": 3.445312
+    }, 
+    {
+      "metawear.z": -0.078125, 
+      "timestamp": 1421799079.483681, 
+      "metawear.x": 0.347656, 
+      "metawear.y": 3.84375
+    }, 
+    {
+      "metawear.z": -0.214844, 
+      "timestamp": 1421799079.514931, 
+      "metawear.x": -0.183594, 
+      "metawear.y": 4.238281
+    }, 
+    {
+      "metawear.z": -0.351562, 
+      "timestamp": 1421799079.530556, 
+      "metawear.x": -0.0625, 
+      "metawear.y": 4.070312
+    }, 
+    {
+      "metawear.z": -0.183594, 
+      "timestamp": 1421799079.546181, 
+      "metawear.x": -0.429688, 
+      "metawear.y": 3.933594
+    }, 
+    {
+      "metawear.z": -0.292969, 
+      "timestamp": 1421799079.577431, 
+      "metawear.x": -0.429688, 
+      "metawear.y": 3.386719
+    }, 
+    {
+      "metawear.z": -0.183594, 
+      "timestamp": 1421799079.577431, 
+      "metawear.x": -0.519531, 
+      "metawear.y": 2.820312
+    }, 
+    {
+      "metawear.z": 0.074219, 
+      "timestamp": 1421799079.608681, 
+      "metawear.x": -0.65625, 
+      "metawear.y": 2.605469
+    }, 
+    {
+      "metawear.z": -0.261719, 
+      "timestamp": 1421799079.639931, 
+      "metawear.x": -0.597656, 
+      "metawear.y": 2.578125
+    }, 
+    {
+      "metawear.z": -0.199219, 
+      "timestamp": 1421799079.639931, 
+      "metawear.x": -0.613281, 
+      "metawear.y": 2.820312
+    }, 
+    {
+      "metawear.z": -0.0625, 
+      "timestamp": 1421799079.671181, 
+      "metawear.x": -0.6875, 
+      "metawear.y": 3.003906
+    }, 
+    {
+      "metawear.z": -0.15625, 
+      "timestamp": 1421799079.671181, 
+      "metawear.x": -0.644531, 
+      "metawear.y": 2.882812
+    }, 
+    {
+      "metawear.z": -0.125, 
+      "timestamp": 1421799079.702431, 
+      "metawear.x": -0.519531, 
+      "metawear.y": 2.914062
+    }, 
+    {
+      "metawear.z": -0.292969, 
+      "timestamp": 1421799079.733681, 
+      "metawear.x": -0.445312, 
+      "metawear.y": 3.21875
+    }, 
+    {
+      "metawear.z": -0.382812, 
+      "timestamp": 1421799079.749306, 
+      "metawear.x": -0.460938, 
+      "metawear.y": 3.539062
+    }, 
+    {
+      "metawear.z": -0.335938, 
+      "timestamp": 1421799079.764931, 
+      "metawear.x": -0.644531, 
+      "metawear.y": 3.84375
+    }, 
+    {
+      "metawear.z": -0.382812, 
+      "timestamp": 1421799079.780556, 
+      "metawear.x": -0.75, 
+      "metawear.y": 4.300781
+    }, 
+    {
+      "metawear.z": -0.414062, 
+      "timestamp": 1421799079.796181, 
+      "metawear.x": -0.765625, 
+      "metawear.y": 4.667969
+    }, 
+    {
+      "metawear.z": -0.246094, 
+      "timestamp": 1421799079.827431, 
+      "metawear.x": -1.632812, 
+      "metawear.y": 4.316406
+    }, 
+    {
+      "metawear.z": -0.671875, 
+      "timestamp": 1421799079.843056, 
+      "metawear.x": -1.953125, 
+      "metawear.y": 4.363281
+    }, 
+    {
+      "metawear.z": -1.3125, 
+      "timestamp": 1421799079.858681, 
+      "metawear.x": -1.480469, 
+      "metawear.y": 5.371094
+    }, 
+    {
+      "metawear.z": -0.503906, 
+      "timestamp": 1421799079.874306, 
+      "metawear.x": -1.300781, 
+      "metawear.y": 5.1875
+    }, 
+    {
+      "metawear.z": -0.046875, 
+      "timestamp": 1421799079.905556, 
+      "metawear.x": -0.261719, 
+      "metawear.y": 5.75
+    }, 
+    {
+      "metawear.z": 0.488281, 
+      "timestamp": 1421799079.921181, 
+      "metawear.x": -0.0625, 
+      "metawear.y": 6.207031
+    }, 
+    {
+      "metawear.z": 1.417969, 
+      "timestamp": 1421799079.936806, 
+      "metawear.x": -0.140625, 
+      "metawear.y": 5.109375
+    }, 
+    {
+      "metawear.z": 1.28125, 
+      "timestamp": 1421799079.952431, 
+      "metawear.x": 0.457031, 
+      "metawear.y": 4.179688
+    }, 
+    {
+      "metawear.z": 0.59375, 
+      "timestamp": 1421799079.968056, 
+      "metawear.x": 1.25, 
+      "metawear.y": 4.957031
+    }, 
+    {
+      "metawear.z": -0.597656, 
+      "timestamp": 1421799079.999306, 
+      "metawear.x": 1.339844, 
+      "metawear.y": 5.507812
+    }, 
+    {
+      "metawear.z": -0.964844, 
+      "timestamp": 1421799080.014931, 
+      "metawear.x": 0.835938, 
+      "metawear.y": 5.78125
+    }, 
+    {
+      "metawear.z": -0.71875, 
+      "timestamp": 1421799080.030556, 
+      "metawear.x": 0.027344, 
+      "metawear.y": 5.460938
+    }, 
+    {
+      "metawear.z": -0.382812, 
+      "timestamp": 1421799080.046181, 
+      "metawear.x": -0.199219, 
+      "metawear.y": 4.714844
+    }, 
+    {
+      "metawear.z": -0.476562, 
+      "timestamp": 1421799080.077431, 
+      "metawear.x": -0.199219, 
+      "metawear.y": 3.875
+    }, 
+    {
+      "metawear.z": 0.515625, 
+      "timestamp": 1421799080.093056, 
+      "metawear.x": -0.535156, 
+      "metawear.y": 2.972656
+    }, 
+    {
+      "metawear.z": -0.246094, 
+      "timestamp": 1421799080.108681, 
+      "metawear.x": -0.503906, 
+      "metawear.y": 2.652344
+    }, 
+    {
+      "metawear.z": -0.582031, 
+      "timestamp": 1421799080.124306, 
+      "metawear.x": -0.351562, 
+      "metawear.y": 2.195312
+    }, 
+    {
+      "metawear.z": -0.65625, 
+      "timestamp": 1421799080.139931, 
+      "metawear.x": 0.027344, 
+      "metawear.y": 1.722656
+    }, 
+    {
+      "metawear.z": -0.765625, 
+      "timestamp": 1421799080.171181, 
+      "metawear.x": 0.152344, 
+      "metawear.y": 1.769531
+    }, 
+    {
+      "metawear.z": -0.855469, 
+      "timestamp": 1421799080.186806, 
+      "metawear.x": 0.378906, 
+      "metawear.y": 1.617188
+    }, 
+    {
+      "metawear.z": -0.839844, 
+      "timestamp": 1421799080.202431, 
+      "metawear.x": 0.164062, 
+      "metawear.y": 1.675781
+    }, 
+    {
+      "metawear.z": -0.75, 
+      "timestamp": 1421799080.233681, 
+      "metawear.x": -0.214844, 
+      "metawear.y": 1.324219
+    }, 
+    {
+      "metawear.z": -0.8125, 
+      "timestamp": 1421799080.233681, 
+      "metawear.x": -0.550781, 
+      "metawear.y": 0.988281
+    }, 
+    {
+      "metawear.z": -1.648438, 
+      "timestamp": 1421799080.264931, 
+      "metawear.x": -0.703125, 
+      "metawear.y": 1.050781
+    }, 
+    {
+      "metawear.z": -2.75, 
+      "timestamp": 1421799080.296181, 
+      "metawear.x": -1.238281, 
+      "metawear.y": 3.082031
+    }, 
+    {
+      "metawear.z": -3.3125, 
+      "timestamp": 1421799080.296181, 
+      "metawear.x": -1.605469, 
+      "metawear.y": 5.660156
+    }, 
+    {
+      "metawear.z": -4.472656, 
+      "timestamp": 1421799080.327431, 
+      "metawear.x": -1.941406, 
+      "metawear.y": 7.765625
+    }, 
+    {
+      "metawear.z": -3.585938, 
+      "timestamp": 1421799080.327431, 
+      "metawear.x": -1.527344, 
+      "metawear.y": 6.269531
+    }, 
+    {
+      "metawear.z": -3.097656, 
+      "timestamp": 1421799080.358681, 
+      "metawear.x": -1.039062, 
+      "metawear.y": 3.21875
+    }, 
+    {
+      "metawear.z": -2.65625, 
+      "timestamp": 1421799080.389931, 
+      "metawear.x": -0.871094, 
+      "metawear.y": 1.617188
+    }, 
+    {
+      "metawear.z": -3.070312, 
+      "timestamp": 1421799080.405556, 
+      "metawear.x": 0.304688, 
+      "metawear.y": 4.253906
+    }, 
+    {
+      "metawear.z": -1.390625, 
+      "timestamp": 1421799080.421181, 
+      "metawear.x": 0.027344, 
+      "metawear.y": 8.4375
+    }, 
+    {
+      "metawear.z": 0.609375, 
+      "timestamp": 1421799080.436806, 
+      "metawear.x": 1.097656, 
+      "metawear.y": 5.871094
+    }, 
+    {
+      "metawear.z": 0.320312, 
+      "timestamp": 1421799080.452431, 
+      "metawear.x": 0.898438, 
+      "metawear.y": 2.730469
+    }, 
+    {
+      "metawear.z": -0.582031, 
+      "timestamp": 1421799080.483681, 
+      "metawear.x": 0.546875, 
+      "metawear.y": 3.523438
+    }, 
+    {
+      "metawear.z": -0.324219, 
+      "timestamp": 1421799080.499306, 
+      "metawear.x": -0.992188, 
+      "metawear.y": 3.765625
+    }, 
+    {
+      "metawear.z": 0.882812, 
+      "timestamp": 1421799080.514931, 
+      "metawear.x": -0.230469, 
+      "metawear.y": 3.507812
+    }, 
+    {
+      "metawear.z": 0.058594, 
+      "timestamp": 1421799080.530556, 
+      "metawear.x": 0.058594, 
+      "metawear.y": 4.058594
+    }, 
+    {
+      "metawear.z": -0.550781, 
+      "timestamp": 1421799080.561806, 
+      "metawear.x": -0.335938, 
+      "metawear.y": 3.859375
+    }, 
+    {
+      "metawear.z": 0.027344, 
+      "timestamp": 1421799080.577431, 
+      "metawear.x": -0.125, 
+      "metawear.y": 3.371094
+    }, 
+    {
+      "metawear.z": -0.15625, 
+      "timestamp": 1421799080.593056, 
+      "metawear.x": -0.167969, 
+      "metawear.y": 3.371094
+    }, 
+    {
+      "metawear.z": -0.488281, 
+      "timestamp": 1421799080.608681, 
+      "metawear.x": -0.140625, 
+      "metawear.y": 3.171875
+    }, 
+    {
+      "metawear.z": 0.195312, 
+      "timestamp": 1421799080.624306, 
+      "metawear.x": -0.277344, 
+      "metawear.y": 2.578125
+    }, 
+    {
+      "metawear.z": 0.226562, 
+      "timestamp": 1421799080.655556, 
+      "metawear.x": -0.519531, 
+      "metawear.y": 2.453125
+    }, 
+    {
+      "metawear.z": 0.121094, 
+      "timestamp": 1421799080.671181, 
+      "metawear.x": -0.550781, 
+      "metawear.y": 2.605469
+    }, 
+    {
+      "metawear.z": 0.074219, 
+      "timestamp": 1421799080.686806, 
+      "metawear.x": -0.796875, 
+      "metawear.y": 2.820312
+    }, 
+    {
+      "metawear.z": -0.078125, 
+      "timestamp": 1421799080.702431, 
+      "metawear.x": -0.871094, 
+      "metawear.y": 3.066406
+    }, 
+    {
+      "metawear.z": -0.15625, 
+      "timestamp": 1421799080.733681, 
+      "metawear.x": -0.765625, 
+      "metawear.y": 3.203125
+    }, 
+    {
+      "metawear.z": -0.367188, 
+      "timestamp": 1421799080.749306, 
+      "metawear.x": -0.71875, 
+      "metawear.y": 3.386719
+    }, 
+    {
+      "metawear.z": -0.582031, 
+      "timestamp": 1421799080.764931, 
+      "metawear.x": -0.566406, 
+      "metawear.y": 3.539062
+    }, 
+    {
+      "metawear.z": -0.398438, 
+      "timestamp": 1421799080.780556, 
+      "metawear.x": -0.566406, 
+      "metawear.y": 3.707031
+    }, 
+    {
+      "metawear.z": -0.246094, 
+      "timestamp": 1421799080.796181, 
+      "metawear.x": -0.839844, 
+      "metawear.y": 4.027344
+    }, 
+    {
+      "metawear.z": -0.324219, 
+      "timestamp": 1421799080.827431, 
+      "metawear.x": -0.703125, 
+      "metawear.y": 4.421875
+    }, 
+    {
+      "metawear.z": -0.324219, 
+      "timestamp": 1421799080.843056, 
+      "metawear.x": -0.796875, 
+      "metawear.y": 4.773438
+    }, 
+    {
+      "metawear.z": -0.214844, 
+      "timestamp": 1421799080.858681, 
+      "metawear.x": -1.679688, 
+      "metawear.y": 4.132812
+    }, 
+    {
+      "metawear.z": -0.78125, 
+      "timestamp": 1421799080.889931, 
+      "metawear.x": -1.511719, 
+      "metawear.y": 4.574219
+    }, 
+    {
+      "metawear.z": -1.160156, 
+      "timestamp": 1421799080.889931, 
+      "metawear.x": -1.039062, 
+      "metawear.y": 5.308594
+    }, 
+    {
+      "metawear.z": -0.351562, 
+      "timestamp": 1421799080.921181, 
+      "metawear.x": -1.191406, 
+      "metawear.y": 4.957031
+    }, 
+    {
+      "metawear.z": 0.320312, 
+      "timestamp": 1421799080.952431, 
+      "metawear.x": -0.582031, 
+      "metawear.y": 5.964844
+    }, 
+    {
+      "metawear.z": 0.394531, 
+      "timestamp": 1421799080.952431, 
+      "metawear.x": -0.613281, 
+      "metawear.y": 6.285156
+    }, 
+    {
+      "metawear.z": 1.050781, 
+      "timestamp": 1421799080.983681, 
+      "metawear.x": 0.347656, 
+      "metawear.y": 5.171875
+    }, 
+    {
+      "metawear.z": 1.066406, 
+      "timestamp": 1421799080.983681, 
+      "metawear.x": 0.761719, 
+      "metawear.y": 3.980469
+    }, 
+    {
+      "metawear.z": 0.441406, 
+      "timestamp": 1421799081.014931, 
+      "metawear.x": 1.265625, 
+      "metawear.y": 4.621094
+    }, 
+    {
+      "metawear.z": -0.351562, 
+      "timestamp": 1421799081.046181, 
+      "metawear.x": 1.140625, 
+      "metawear.y": 4.941406
+    }, 
+    {
+      "metawear.z": -0.75, 
+      "timestamp": 1421799081.061806, 
+      "metawear.x": 0.441406, 
+      "metawear.y": 5.535156
+    }, 
+    {
+      "metawear.z": -0.644531, 
+      "timestamp": 1421799081.077431, 
+      "metawear.x": -0.382812, 
+      "metawear.y": 5.628906
+    }, 
+    {
+      "metawear.z": -0.140625, 
+      "timestamp": 1421799081.093056, 
+      "metawear.x": -0.367188, 
+      "metawear.y": 4.882812
+    }, 
+    {
+      "metawear.z": -0.703125, 
+      "timestamp": 1421799081.108681, 
+      "metawear.x": -0.308594, 
+      "metawear.y": 4.332031
+    }, 
+    {
+      "metawear.z": 0.546875, 
+      "timestamp": 1421799081.139931, 
+      "metawear.x": -0.015625, 
+      "metawear.y": 3.066406
+    }, 
+    {
+      "metawear.z": 0.074219, 
+      "timestamp": 1421799081.155556, 
+      "metawear.x": -0.292969, 
+      "metawear.y": 3.003906
+    }, 
+    {
+      "metawear.z": -0.246094, 
+      "timestamp": 1421799081.171181, 
+      "metawear.x": -0.109375, 
+      "metawear.y": 2.300781
+    }, 
+    {
+      "metawear.z": -0.566406, 
+      "timestamp": 1421799081.186806, 
+      "metawear.x": -0.09375, 
+      "metawear.y": 1.980469
+    }, 
+    {
+      "metawear.z": -0.535156, 
+      "timestamp": 1421799081.218056, 
+      "metawear.x": 0.042969, 
+      "metawear.y": 1.707031
+    }, 
+    {
+      "metawear.z": -0.476562, 
+      "timestamp": 1421799081.233681, 
+      "metawear.x": 0.074219, 
+      "metawear.y": 1.617188
+    }, 
+    {
+      "metawear.z": -0.6875, 
+      "timestamp": 1421799081.249306, 
+      "metawear.x": 0.089844, 
+      "metawear.y": 1.570312
+    }, 
+    {
+      "metawear.z": -0.703125, 
+      "timestamp": 1421799081.264931, 
+      "metawear.x": 0.042969, 
+      "metawear.y": 1.308594
+    }, 
+    {
+      "metawear.z": -0.855469, 
+      "timestamp": 1421799081.280556, 
+      "metawear.x": -0.109375, 
+      "metawear.y": 1.003906
+    }, 
+    {
+      "metawear.z": -1.527344, 
+      "timestamp": 1421799081.311806, 
+      "metawear.x": -0.351562, 
+      "metawear.y": 0.929688
+    }, 
+    {
+      "metawear.z": -2.078125, 
+      "timestamp": 1421799081.327431, 
+      "metawear.x": -0.855469, 
+      "metawear.y": 2.089844
+    }, 
+    {
+      "metawear.z": -2.457031, 
+      "timestamp": 1421799081.343056, 
+      "metawear.x": -1.285156, 
+      "metawear.y": 4.5
+    }, 
+    {
+      "metawear.z": -2.976562, 
+      "timestamp": 1421799081.358681, 
+      "metawear.x": -1.4375, 
+      "metawear.y": 7.246094
+    }, 
+    {
+      "metawear.z": -4.703125, 
+      "timestamp": 1421799081.389931, 
+      "metawear.x": -1.589844, 
+      "metawear.y": 8.207031
+    }, 
+    {
+      "metawear.z": -4.457031, 
+      "timestamp": 1421799081.405556, 
+      "metawear.x": -1.269531, 
+      "metawear.y": 5.277344
+    }, 
+    {
+      "metawear.z": -3.417969, 
+      "timestamp": 1421799081.421181, 
+      "metawear.x": -0.824219, 
+      "metawear.y": 1.890625
+    }, 
+    {
+      "metawear.z": -2.671875, 
+      "timestamp": 1421799081.436806, 
+      "metawear.x": -0.15625, 
+      "metawear.y": 1.691406
+    }, 
+    {
+      "metawear.z": -2.0625, 
+      "timestamp": 1421799081.452431, 
+      "metawear.x": 0.320312, 
+      "metawear.y": 7.597656
+    }, 
+    {
+      "metawear.z": -0.109375, 
+      "timestamp": 1421799081.483681, 
+      "metawear.x": 0.441406, 
+      "metawear.y": 8.144531
+    }, 
+    {
+      "metawear.z": -0.046875, 
+      "timestamp": 1421799081.499306, 
+      "metawear.x": 0.835938, 
+      "metawear.y": 3.460938
+    }, 
+    {
+      "metawear.z": -0.292969, 
+      "timestamp": 1421799081.514931, 
+      "metawear.x": 0.929688, 
+      "metawear.y": 1.644531
+    }, 
+    {
+      "metawear.z": -0.917969, 
+      "timestamp": 1421799081.546181, 
+      "metawear.x": 0.226562, 
+      "metawear.y": 3.140625
+    }, 
+    {
+      "metawear.z": 0.027344, 
+      "timestamp": 1421799081.546181, 
+      "metawear.x": -1.023438, 
+      "metawear.y": 3.796875
+    }, 
+    {
+      "metawear.z": 1.449219, 
+      "timestamp": 1421799081.577431, 
+      "metawear.x": -0.382812, 
+      "metawear.y": 3.644531
+    }, 
+    {
+      "metawear.z": -0.078125, 
+      "timestamp": 1421799081.608681, 
+      "metawear.x": -0.519531, 
+      "metawear.y": 4.789062
+    }, 
+    {
+      "metawear.z": -0.671875, 
+      "timestamp": 1421799081.608681, 
+      "metawear.x": -0.824219, 
+      "metawear.y": 3.75
+    }, 
+    {
+      "metawear.z": 0.289062, 
+      "timestamp": 1421799081.639931, 
+      "metawear.x": -0.199219, 
+      "metawear.y": 3.109375
+    }, 
+    {
+      "metawear.z": -0.445312, 
+      "timestamp": 1421799081.639931, 
+      "metawear.x": 0.121094, 
+      "metawear.y": 3.15625
+    }, 
+    {
+      "metawear.z": -0.644531, 
+      "timestamp": 1421799081.671181, 
+      "metawear.x": 0.042969, 
+      "metawear.y": 3.171875
+    }, 
+    {
+      "metawear.z": -0.0625, 
+      "timestamp": 1421799081.702431, 
+      "metawear.x": -0.183594, 
+      "metawear.y": 2.730469
+    }, 
+    {
+      "metawear.z": 0.289062, 
+      "timestamp": 1421799081.718056, 
+      "metawear.x": -0.335938, 
+      "metawear.y": 2.546875
+    }, 
+    {
+      "metawear.z": -0.140625, 
+      "timestamp": 1421799081.733681, 
+      "metawear.x": -0.367188, 
+      "metawear.y": 3.082031
+    }, 
+    {
+      "metawear.z": -0.03125, 
+      "timestamp": 1421799081.749306, 
+      "metawear.x": -0.734375, 
+      "metawear.y": 3.15625
+    }, 
+    {
+      "metawear.z": 0.011719, 
+      "timestamp": 1421799081.764931, 
+      "metawear.x": -0.824219, 
+      "metawear.y": 3.292969
+    }, 
+    {
+      "metawear.z": -0.324219, 
+      "timestamp": 1421799081.796181, 
+      "metawear.x": -0.71875, 
+      "metawear.y": 3.09375
+    }, 
+    {
+      "metawear.z": -0.324219, 
+      "timestamp": 1421799081.811806, 
+      "metawear.x": -0.644531, 
+      "metawear.y": 3.308594
+    }
+  ], 
+  "metadata": {
+    "contributor": "Russell Hay <russell.hay@gmail.com>", 
+    "sensors": [
+      "metawear"
+    ], 
+    "subject": "Russell Hay <russell.hay@gmail.com>", 
+    "name": "Walking 20 Steps", 
+    "activity": "Normal"
+  }
+}
